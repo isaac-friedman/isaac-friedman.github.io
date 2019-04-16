@@ -1,2 +1,3 @@
 # isaac-friedman.github.io
-My static site
+
+My personal website as of April 2019.
