@@ -3,6 +3,10 @@ body {
     width: 80%;
 }
 
+nav {
+  border-bottom: 1px solid #d5d5d5;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
